@@ -1,0 +1,17 @@
+.number {
+    background-color: #04de04;
+    margin-left: 2px;
+    margin-right: 2px;
+    float: left;
+}
+#numbers {
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #040204;
+}
+#options {
+    position: absolute;
+    bottom: 0px;
+}
